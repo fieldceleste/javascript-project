@@ -17,6 +17,6 @@ document.getElementById("answer2").innerHTML = result2;
 	   
 
 
-return false; // required to not refresh the page; just leave this he re
-} //this ends the submit function
+return false; 
+} 
 
